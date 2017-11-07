@@ -93,7 +93,7 @@ public class HelloWorldApplication extends Application<HelloWorldConfiguration> 
                 .buildAuthFilter()));
         environment.jersey().register(new AuthValueFactoryProvider.Binder<>(User.class));
         environment.jersey().register(RolesAllowedDynamicFeature.class);
-        environment.jersey().register(new HelloWorldResource(template));
+        environment.jersey().register(new HelloWorldResource(template, environment.metrics()));
         environment.jersey().register(new ViewResource());
         environment.jersey().register(new ProtectedResource());
         environment.jersey().register(new PeopleResource(dao));

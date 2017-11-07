@@ -1,6 +1,6 @@
-/home/daniel/dev/projects/dropwizard-example/dropwizard-example/src/test/java/com/example/helloworld/IntegrationTest.java
-/home/daniel/dev/projects/dropwizard-example/dropwizard-example/src/test/java/com/example/helloworld/resources/ProtectedResourceTest.java
-/home/daniel/dev/projects/dropwizard-example/dropwizard-example/src/test/java/com/example/helloworld/resources/PeopleResourceTest.java
-/home/daniel/dev/projects/dropwizard-example/dropwizard-example/src/test/java/com/example/helloworld/db/PersonDAOTest.java
-/home/daniel/dev/projects/dropwizard-example/dropwizard-example/src/test/java/com/example/helloworld/resources/PersonResourceTest.java
-/home/daniel/dev/projects/dropwizard-example/dropwizard-example/src/test/java/com/example/helloworld/resources/ProtectedClassResourceTest.java
+/home/daniel/dev/projects/dropwizard-metrics-demo/dropwizard-example/src/test/java/com/example/helloworld/resources/PeopleResourceTest.java
+/home/daniel/dev/projects/dropwizard-metrics-demo/dropwizard-example/src/test/java/com/example/helloworld/IntegrationTest.java
+/home/daniel/dev/projects/dropwizard-metrics-demo/dropwizard-example/src/test/java/com/example/helloworld/resources/ProtectedResourceTest.java
+/home/daniel/dev/projects/dropwizard-metrics-demo/dropwizard-example/src/test/java/com/example/helloworld/resources/ProtectedClassResourceTest.java
+/home/daniel/dev/projects/dropwizard-metrics-demo/dropwizard-example/src/test/java/com/example/helloworld/db/PersonDAOTest.java
+/home/daniel/dev/projects/dropwizard-metrics-demo/dropwizard-example/src/test/java/com/example/helloworld/resources/PersonResourceTest.java
